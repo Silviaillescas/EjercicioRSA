@@ -1,7 +1,7 @@
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 
-mensaje = b"secreto secreto"
+mensaje = b"Hola UVG"
 
 # cargar clave pública
 with open("public_key.pem", "rb") as f:
