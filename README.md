@@ -257,3 +257,11 @@ AES-GCM permite garantizar confidencialidad e integridad.
 Este enfoque refleja el funcionamiento de sistemas criptográficos modernos.
 
 ---
+
+## Herramientas de apoyo
+
+Durante el desarrollo de este laboratorio se utilizó ChatGPT (OpenAI) como herramienta de apoyo para:
+
+- comprensión del funcionamiento de RSA
+- revisión de código en Python
+- aclaración de conceptos criptográficos
